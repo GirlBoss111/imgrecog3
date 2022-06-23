@@ -1,0 +1,19 @@
+.heading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    background: lightseagreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: navy;
+}
+
+#camera{
+    border: 1px dashed darkslateblue;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_name , #result_object_accuracy{
+    color: coral;
+}
